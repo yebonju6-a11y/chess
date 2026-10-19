@@ -1,0 +1,6 @@
+{
+  "name": "체스 메이트 - 초보자를 위한 스마트 체스",
+  "description": "체스를 처음 배우는 초보자를 위한 친절한 체스 게임. 합법적인 수 안내, 상대 위협 감지, AI 코치 힌트, 기물 도감 및 전술 퀴즈 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
